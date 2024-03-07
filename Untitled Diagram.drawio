@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T00:23:14.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="23.1.6" etag="6NcBMRy2awkScyrlzTZY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T00:30:00.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="euoWsVxeJypFzTaher6g" version="23.1.6" type="github">
   <diagram name="Page-1" id="oPuHovaKOXcWcNpMjWnY">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j_2igZF-mP6QbI3G3IB6-1" target="j_2igZF-mP6QbI3G3IB6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-1" value="Complete Quiz" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-2" value="Assessment Notification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.125;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j_2igZF-mP6QbI3G3IB6-2" target="j_2igZF-mP6QbI3G3IB6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j_2igZF-mP6QbI3G3IB6-4" target="j_2igZF-mP6QbI3G3IB6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-4" value="Pull Score From Form and List in Document" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j_2igZF-mP6QbI3G3IB6-6" target="j_2igZF-mP6QbI3G3IB6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-6" value="Print Document to PDF Using LinkedIn URL as Document Name-CA1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j_2igZF-mP6QbI3G3IB6-8" target="j_2igZF-mP6QbI3G3IB6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-8" value="Pull LinkedIn URL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j_2igZF-mP6QbI3G3IB6-10" target="j_2igZF-mP6QbI3G3IB6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-10" value="Message Thank You and Attach Assessment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j_2igZF-mP6QbI3G3IB6-12" value="Message Calendly to Connect to Discuss Interest in AI and Contract Analytics" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
